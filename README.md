@@ -14,4 +14,4 @@ Here's a list of my school projects, followed by the language they are coded in:
 For read-only access to my private repositories, feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/grace-sanner-867138300/) so I can add you.
 Please include the name of your request and the name(s) of the repository you want access to!
 
-<sup><sub>Last updated: 12/20/2024 at 4:47PM </sub></sup>
+<sup><sub>Last updated: 02/13/2025 at 11:55AM </sub></sup>
