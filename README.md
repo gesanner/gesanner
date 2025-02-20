@@ -9,14 +9,14 @@ I am currently an Honors Undergraduate at Northern Illinois University, pursuing
 
 To preserve the intellectual property rights of my professors (and to disallow current students to copy my past work), I will be posting my school projects to private repositories.
 
-Here's a list of my school courses and the projects I completed in them, followed by the language they are coded in:
+Here's a list of my school courses and the projects I completed in them, followed by the language they are coded in and a little information about them:
 1. CSCI-322: Android Mobile Device Programming [Fall 2024]
-     - AndroidEmailChecker2024
-     - AndroidContacts2024
-     - AndroidChessboard2024
-     - AndroidTap2024
+     - AndroidEmailChecker2024 : Java
+     - AndroidContacts2024 : Java
+     - AndroidChessboard2024 : Java
+     - AndroidTap2024 : Java
 2. CSCI-428: Advanced Android Mobile Device Programming [Spring 2025]
-     - AndroidPingPong2025
+     - AndroidPingPong2025 : Java
 
 For read-only access to my private repositories, feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/grace-sanner-867138300/) so I can add you.
 Please include the reason for your request and the name(s) of the repository you want access to!
