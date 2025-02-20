@@ -12,7 +12,11 @@ To preserve the intellectual property rights of my professors (and to disallow c
 Here's a list of my school courses and the projects I completed in them, followed by the language they are coded in and a little information about them:
 1. CSCI-322: Android Mobile Device Programming [Fall 2024]
      - AndroidEmailChecker2024 : Java
+          - This app was part of the Programmatic UI section, where we were writing Android apps without the use of XML files.
+          - The user enters their e-mail address, clicks a button, and is told if it is VALID or INVALID.
      - AndroidContacts2024 : Java
+          - This app was part of the Menus and SQLite Database section, where we learned how to store data in an Android app.
+          - The user can add, delete, or update a contact. The user can also search by e-mail for a contact.
      - AndroidChessboard2024 : Java
      - AndroidTap2024 : Java
 2. CSCI-428: Advanced Android Mobile Device Programming [Spring 2025]
@@ -21,4 +25,4 @@ Here's a list of my school courses and the projects I completed in them, followe
 For read-only access to my private repositories, feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/grace-sanner-867138300/) so I can add you.
 Please include the reason for your request and the name(s) of the repository you want access to!
 
-<sup><sub>Last updated: 02/14/2025 at 8:31PM </sub></sup>
+<sup><sub>Last updated: 02/20/2025 at 09:16 </sub></sup>
