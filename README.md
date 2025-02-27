@@ -18,6 +18,8 @@ Here's a list of my school courses and the projects I completed in them, followe
           - This app was part of the Menus and SQLite Database section, where we learned how to store data in an Android app.
           - The user can add, delete, or update a contact. The user can also search by e-mail for a contact.
      - AndroidChessboard2024 : Java
+          - This app was part of the Managing Orientation section, where we learned how to dynamically adapt our UI to the Android device's orientation.
+          - This app was meant to display a black and white chessboard positioned at the top of the screen in vertical orientation, and a red and white chessboard in the middle of the screen in horizontal orientation.
      - AndroidTap2024 : Java
 2. CSCI-428: Advanced Android Mobile Device Programming [Spring 2025]
      - AndroidPingPong2025 : Java
