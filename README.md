@@ -1,4 +1,4 @@
-# Grace's Profile Page 2.1
+# Grace's Profile Page 2.2
 
 ### Educational Information
 I am currently an Honors Undergraduate at Northern Illinois University, pursuing a BS in Computer Science. I am emphasizing Enterprise Software and minoring in Business Administration and Business Innovation & Entrepreneurship.
@@ -19,12 +19,14 @@ Here's a list of my school courses and the projects I completed in them, followe
           - The user can add, delete, or update a contact. The user can also search by e-mail for a contact.
      - AndroidChessboard2024 : Java
           - This app was part of the Managing Orientation section, where we learned how to dynamically adapt our UI to the Android device's orientation.
-          - This app was meant to display a black and white chessboard positioned at the top of the screen in vertical orientation, and a red and white chessboard in the middle of the screen in horizontal orientation.
+          - This app displays a black and white chessboard positioned at the top of the screen in vertical orientation, and a red and white chessboard in the middle of the screen in horizontal orientation.
      - AndroidTap2024 : Java
+          - This app was part of the Touch Events and Swipe section, where we learned how to retrieve user interaction with the screen.
+          - If the user taps on the TextView, the display should turn blue. When they double tap, it turns back to red. If the user taps outside the display, nothing happens.
 2. CSCI-428: Advanced Android Mobile Device Programming [Spring 2025]
      - AndroidPingPong2025 : Java
 
 For read-only access to my private repositories, feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/grace-sanner-867138300/) so I can add you.
 Please include the reason for your request and the name(s) of the repository you want access to!
 
-<sup><sub>Last updated: 02/20/2025 at 09:16 </sub></sup>
+<sup><sub>Last updated: 02/27/2025 at 11:38 </sub></sup>
