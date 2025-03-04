@@ -1,4 +1,4 @@
-# Grace's Profile Page 2.2
+# Grace's Profile Page 2.25
 
 ### Educational Information
 I am currently an Honors Undergraduate at Northern Illinois University, pursuing a BS in Computer Science. I am emphasizing Enterprise Software and minoring in Business Administration and Business Innovation & Entrepreneurship.
@@ -25,8 +25,13 @@ Here's a list of my school courses and the projects I completed in them, followe
           - If the user taps on the TextView, the display should turn blue. When they double tap, it turns back to red. If the user taps outside the display, nothing happens.
 2. CSCI-428: Advanced Android Mobile Device Programming [Spring 2025]
      - AndroidPingPong2025 : Java
+          - This app was part of the Graphics, Animations and Sounds section, where we learned how to create a simple game with limited animation and user interaction.
+          - When the user starts the app, a ball will fall from the top of the screen. The user attempts to keep it from hitting the bottom of the screen. If the user fails, the ball drops from the top again.
+     - AndroidStopLight2025 : Java
+          - This app was part of the Fragments section, where we learned how to manage fragments with both XML and Java.
+          - The user can tap a button on one fragment and change the color of the stoplight displayed in another fragment.
 
 For read-only access to my private repositories, feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/grace-sanner-867138300/) so I can add you.
 Please include the reason for your request and the name(s) of the repository you want access to!
 
-<sup><sub>Last updated: 02/27/2025 at 11:38 </sub></sup>
+<sup><sub>Last updated: 03/04/2025 at 17:01 </sub></sup>
